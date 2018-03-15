@@ -1,0 +1,16 @@
+2018-03-15 16:01:45.331 [main] DEBUG cong.rabbitmq.Server -  [x] Awaiting RPC requests
+2018-03-15 16:01:45.335 [main] DEBUG cong.rabbitmq.Server - d
+2018-03-15 16:01:45.335 [main] DEBUG cong.rabbitmq.Server - e
+2018-03-15 16:01:45.335 [main] DEBUG cong.rabbitmq.Server - f
+2018-03-15 16:01:45.335 [main] DEBUG cong.rabbitmq.Server - g
+2018-03-15 16:02:11.790 [pool-2-thread-4] DEBUG cong.rabbitmq.Server - a
+2018-03-15 16:02:11.790 [pool-2-thread-4] DEBUG cong.rabbitmq.Server - Thông tin kết nối là :1
+2018-03-15 16:02:11.792 [pool-2-thread-4] DEBUG cong.rabbitmq.Server - b
+2018-03-15 16:02:11.792 [pool-2-thread-4] DEBUG cong.rabbitmq.Server - c
+2018-03-15 16:02:11.792 [main] DEBUG cong.rabbitmq.Server - e
+2018-03-15 16:02:11.792 [main] DEBUG cong.rabbitmq.Server - f
+2018-03-15 16:02:11.792 [main] DEBUG cong.rabbitmq.Server - g
+2018-03-15 16:03:15.343 [main] DEBUG cong.rabbitmq.Server -  [x] Awaiting RPC requests
+2018-03-15 16:44:01.704 [main] DEBUG cong.rabbitmq.Server -  [x] Awaiting RPC requests
+2018-03-15 16:44:05.759 [pool-2-thread-4] DEBUG cong.rabbitmq.Server - Thông tin kết nối là :1
+2018-03-15 16:56:01.642 [pool-2-thread-5] DEBUG cong.rabbitmq.Server - Thông tin kết nối là :1

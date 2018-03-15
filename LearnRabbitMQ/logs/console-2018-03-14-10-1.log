@@ -1,0 +1,17 @@
+2018-03-14 10:19:00.735 [main] DEBUG cong.learn.ReceiveLogsDirect -  [*] Waiting for messages. To exit press CTRL+C
+2018-03-14 10:25:28.857 [main] DEBUG cong.learn.ReceiveLogsDirect -  [*] Waiting for messages. To exit press CTRL+C
+2018-03-14 10:34:35.966 [main] DEBUG cong.learn.ReceiveLogsDirect -  [*] Waiting for messages. To exit press CTRL+C
+2018-03-14 10:34:42.172 [pool-2-thread-4] DEBUG cong.learn.ReceiveLogsDirect -  [x] Received '':'Hello World!'
+2018-03-14 10:35:45.800 [main] DEBUG cong.learn.ReceiveLogsDirect -  [*] Waiting for messages. To exit press CTRL+C
+2018-03-14 10:35:59.652 [pool-2-thread-4] DEBUG cong.learn.ReceiveLogsDirect -  [x] Received '':'Hello World!'
+2018-03-14 10:36:19.467 [pool-2-thread-5] DEBUG cong.learn.ReceiveLogsDirect -  [x] Received '':'Hello World!'
+2018-03-14 10:37:59.292 [pool-2-thread-6] DEBUG cong.learn.ReceiveLogsDirect -  [x] Received '':'Hello World!'
+ld!'
+2018-03-14 10:37:59.284 [pool-2-thread-6] DEBUG cong.learn.ReceiveLogsDirect -  [x] Received '':'Hello World!'
+2018-03-14 10:46:23.866 [main] DEBUG cong.learn.RPCServer -  [x] Awaiting RPC requests
+2018-03-14 10:47:40.946 [pool-2-thread-4] DEBUG cong.learn.RPCServer -  [.] fib(30)
+2018-03-14 10:49:46.838 [pool-2-thread-5] DEBUG cong.learn.RPCServer -  [.] fib(30)
+0)
+2018-03-14 10:52:15.187 [pool-2-thread-5] DEBUG cong.learn.RPCServer -  [.] fib(10)
+0)
+2018-03-14 10:52:20.353 [pool-2-thread-5] DEBUG cong.learn.RPCServer -  [.] fib(30)
